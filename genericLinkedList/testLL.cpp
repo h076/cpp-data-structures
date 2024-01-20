@@ -1,5 +1,5 @@
 #include <iostream>
-#include "LinkedList.hpp"
+#include "LinkedList.cpp"
 
 int main() {
     LinkedList<int> intList;
